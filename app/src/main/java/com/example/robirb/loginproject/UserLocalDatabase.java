@@ -10,7 +10,7 @@ import android.content.SharedPreferences;
 public class UserLocalDatabase {
     private static final String PREF_NAME="atik";
 
-    private static final String LOGIN_KEY="lokoo";
+    private static final String LOGIN_KEY="uuuuuuuuuuuu";
 
     private Context context;
     private SharedPreferences myPref;
